@@ -1,7 +1,5 @@
-# Git Commands
-## This Gist contains all the useful commands for Git 
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+# 🔗Git Commands
+## This Git contains all the useful commands for Git 
 
 Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
 
