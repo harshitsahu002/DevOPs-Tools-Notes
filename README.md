@@ -8,7 +8,7 @@ Firstly, from the given link download git.exe for GUI Users
 https://git-scm.com/downloads
 
 If you want to download from terminal check the Deplyment section 
-## Deployment
+### Deployment
 
 To download git from the terminal
 
