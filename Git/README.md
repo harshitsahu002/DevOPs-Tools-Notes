@@ -1,5 +1,6 @@
-![Logo](https://github.com/harshitsahu2311/DevOps-Tools-Notes/blob/main/Git/github.gif)
 # 🔗Git Commands
+![Logo](https://github.com/harshitsahu2311/DevOps-Tools-Notes/blob/main/Git/github.gif)
+
 ## This Git contains all the useful commands for Git 
 
 Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
