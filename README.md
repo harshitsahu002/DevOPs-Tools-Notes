@@ -1,5 +1,5 @@
 # Devops-Tools-Notes
-
+![Logo](https://github.com/harshitsahu2311/DevOps-Tools-Notes/blob/main/devops.gif)
 ## # Git
 Git is a very important tool to work in Github, So I have provided  all git's basics in this folder.
 
