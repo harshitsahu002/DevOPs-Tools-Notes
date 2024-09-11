@@ -1,6 +1,6 @@
 # Devops-Tools-Notes
 ![Logo](https://github.com/harshitsahu2311/DevOps-Tools-Notes/blob/main/devops.gif)
-## # Git
+## 🔗Git
 Git is a very important tool to work in Github, So I have provided  all git's basics in this folder.
 
 Firstly, from the given link download git.exe for GUI Users
