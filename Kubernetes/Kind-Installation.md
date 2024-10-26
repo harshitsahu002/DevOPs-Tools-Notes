@@ -8,6 +8,7 @@ sudo apt install docker.io
 sudo snap install kubectl --classic
 kubectl version --client
 ```
+![](https://github.com/harshitsahu2311/DevOps-Tools-Notes/blob/main/Kubernetes/Screenshot%202024-10-26%20191652.png)
 
 ## Install kind:
 ```
